@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Olá, me chamo Pablo e sou estudante do curso de ADS na PUC Goiás. 
+
+✨Aspirante da linguagem Java✨
+
