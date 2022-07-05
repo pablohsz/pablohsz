@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Pablo e sou estudante do curso de ADS na PUC Goiás. 👋
 
 <!--
 **pablohsz/pablohsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Olá, me chamo Pablo e sou estudante do curso de ADS na PUC Goiás. 
 
 ✨Aspirante da linguagem Java✨
 
